@@ -10,7 +10,7 @@
 .content .titulo {
   text-align: center;
 }
-.content :is(h1, h2, p) {
+.content :is(h2, p) {
   text-align: justify;
 }
 
@@ -28,11 +28,11 @@
 .content .itens {
   margin-bottom: 4rem;
 }
-.content .itens .image{
-    display: block;
-    margin: 0 auto;
-    height: 20rem;
-    padding: 1rem;
+.content .itens .image {
+  display: block;
+  margin: 0 auto;
+  height: 20rem;
+  padding: 1rem;
 }
 .content .itens a {
   display: block;
