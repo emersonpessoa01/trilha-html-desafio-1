@@ -11,7 +11,7 @@
 }
 
 .home .item {
-  max-width:40rem;
+  max-width:40rem; /* Xrem faz manter o posição do vidro no modo left invés de 100% */
   margin: 0 0 20px;
   
 }
